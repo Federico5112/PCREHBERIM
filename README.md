@@ -10,14 +10,14 @@ Kullanıcılar bütçelerine ve ihtiyaçlarına (oyun, iş, okul) göre en doğr
 * Elementor (Sayfa Tasarımı ve UI)
 * HTML/CSS (Özel stil düzenlemeleri için)
 
- Projeden Görüntüler
+ 
 
  Ana Sayfa Tasarımı
-![Ana Sayfa](img/anasayfa.jpg)
+![Ana Sayfa](https://pcrehberim.free.nf/)
 
 
  Detaylı Rehber Sayfası
-![Rehber Sayfası](img/rehber.jpg)
+![Rehber Sayfası](https://pcrehberim.free.nf/about/)
 
  Neler Öğrendim?
 Bu projeyi geliştirirken:
